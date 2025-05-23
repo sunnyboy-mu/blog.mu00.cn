@@ -1,0 +1,49 @@
+{
+  "name": "pengzhanbo.cn",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.11.0",
+  "description": "My personal blog site",
+  "author": "pengzhanbo",
+  "license": "GPL-3.0",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src --clean-cache --clean-temp",
+    "preview": "http-server docs -d 0",
+    "gen:font": "tsx ./scripts/web-fonts.ts"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.339",
+    "@pengzhanbo/utils": "^2.1.0",
+    "@vuepress/bundler-vite": "2.0.0-rc.23",
+    "@vuepress/plugin-baidu-analytics": "2.0.0-rc.103",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.103",
+    "@vuepress/shiki-twoslash": "2.0.0-rc.105",
+    "gitmojis": "^3.15.0",
+    "katex": "^0.16.22",
+    "mermaid": "^11.6.0",
+    "sass-embedded": "^1.89.0",
+    "tinyglobby": "^0.2.13",
+    "vue": "^3.5.14",
+    "vuepress": "2.0.0-rc.23",
+    "vuepress-theme-plume": "1.0.0-rc.151"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.2",
+    "dotenv": "^16.5.0",
+    "http-server": "^14.1.1",
+    "is-ci": "^4.1.0",
+    "tsconfig-vuepress": "^7.0.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "unrs-resolver"
+    ]
+  }
+}
+
