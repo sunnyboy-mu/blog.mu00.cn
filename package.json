@@ -1,11 +1,11 @@
 {
-  "name": "pengzhanbo.cn",
+  "name": "blog.mu00.cn",
   "type": "module",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.11.0",
   "description": "My personal blog site",
-  "author": "pengzhanbo",
+  "author": "Moe Cryo",
   "license": "GPL-3.0",
   "scripts": {
     "dev": "vuepress dev src",

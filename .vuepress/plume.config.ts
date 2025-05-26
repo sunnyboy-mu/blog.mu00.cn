@@ -9,7 +9,7 @@ export default defineThemeConfig({
   notes,
 
   profile: {
-    name: "小沐沐吖",
+    name: "Moe Cryo",
     avatar: "https://upyun-oss.mu00.cn/logo.png",
   },
   social: [
@@ -51,7 +51,7 @@ export default defineThemeConfig({
         <img alt="本网站由又拍云提供CDN加速/云存储服务" style="display: inline-block; vertical-align: middle;" src="https://img.shields.io/badge/%E5%8F%88%E6%8B%8D%E4%BA%91-CDN%E5%8A%A0%E9%80%9F%2F%E4%BA%91%E5%AD%98%E5%82%A8-%2305A2FF" />
       </a>
     `,
-    copyright: "© Copyright 2024 All Rights Reserved. 版权所有：小沐沐吖",
+    copyright: "© Copyright 2024 All Rights Reserved. 版权所有：Moe Cryo",
   },
   externalLinkIcon: false,
 });

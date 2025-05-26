@@ -135,7 +135,7 @@ function getUrl(params: Params) {
 
 downloadWebFontCss({
   family: "Ma Shan Zheng",
-  text: ["小沐沐吖", "沐沐物语", "人生如棋，落子无悔；处世之道，贵在从容"],
+  text: ["沐沐物语", "人生如棋，落子无悔；处世之道，贵在从容"],
 });
 
 downloadWebFontCss({

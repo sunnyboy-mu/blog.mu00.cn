@@ -9,7 +9,7 @@ article: false
 
 <CardGrid cols="3">
   <ImageCard
-    image="https://upyun-oss.mu00.cn/2025/04/21//1745236536860.png"
+    image="https://upyun-oss.mu00.cn/2025/04/21/1745236536860.png"
     title="保重"
     description="讲述那些凡人微光、烟火凡间。工人的女儿、唱歌最好的女科学家、独臂少年与盲人弟弟、神奇的一家人与传奇的忘年交……小蓝书系列七本书自此收官，有些故事还没讲完那就算了吧。世间没有不散的相伴，不必遗憾小蓝书的完结。"
     href="https://book.douban.com/subject/36081728/"
@@ -17,7 +17,7 @@ article: false
     date="2025/04/21"
   />
   <ImageCard
-    image="https://upyun-oss.mu00.cn/2025/04/19//1745058755488.jpg"
+    image="https://upyun-oss.mu00.cn/2025/04/19/1745058755488.jpg"
     title="所有失去的，终将以另一种方式归来"
     description="这世上从来没有白费的努力，也没有碰巧的成功。你要相信，自己付出之后必有回报。"
     href="/"
@@ -25,7 +25,7 @@ article: false
     date="2025/02/01"
   />
   <ImageCard
-    image="https://upyun-oss.mu00.cn/2025/04/19//1745033395008.jpg"
+    image="https://upyun-oss.mu00.cn/2025/04/19/1745033395008.jpg"
     title="没有在成长中跌倒过的人，不足以谈人生"
     description="人生就要边走边悟，边悟边走；这场旅行，让人期待的并不是目的地，而是沿途的风景"
     href="https://book.douban.com/subject/30523937/"

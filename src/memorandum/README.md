@@ -1,14 +1,14 @@
 ---
 pageLayout: home
 title: 备忘录
-icon: /images/memorandum.svg
+icon: /assets/memorandum.svg
 pageClass: memorandum-nav
 config:
   - type: doc-hero
     hero:
       name: 备忘录
       tagline: 日常开发中，所使用的各类技术 和 工具 备忘录。
-      image: /images/memorandum.svg
+      image: /assets/memorandum.svg
 
   - type: features
     features:

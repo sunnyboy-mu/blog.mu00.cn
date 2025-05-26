@@ -14,7 +14,10 @@ const asyncActive = ref(0);
 
 let interval: ReturnType<typeof setInterval> | null = null;
 onMounted(async () => {
-  list.value = ["https://upyun-oss.mu00.cn/2025/03/28//1743153007697.png"];
+  list.value = [
+    "https://upyun-oss.mu00.cn/2025/03/28/1743153007697.png",
+    "https://upyun-oss.mu00.cn/2025/05/25/1748169917350.jpg",
+  ];
   if (list.value.length > 1) {
     interval = setInterval(() => {
       active.value = (active.value + 1) % list.value.length;

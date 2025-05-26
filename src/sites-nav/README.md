@@ -1,14 +1,14 @@
 ---
 pageLayout: home
 title: 站点导航
-icon: /images/memorandum.svg
+icon: /assets/memorandum.svg
 pageClass: page-sites-nav
 config:
   - type: doc-hero
     hero:
       name: 站点导航
       tagline: 收集和整理有关前后端、运维、在线工具等相关资源
-      image: /images/memorandum.svg
+      image: /assets/memorandum.svg
 
   - type: features
     features:
