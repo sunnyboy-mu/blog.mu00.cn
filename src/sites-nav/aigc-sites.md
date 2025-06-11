@@ -30,6 +30,18 @@ permalink: /sites-nav/aigc-sites/
     icon="https://www.faviconextractor.com/favicon/www.coze.cn?larger=true" >
       你和 AI Agent 协同办公的最佳场所
   </LinkCard>
+  <LinkCard
+    title="Lovart"
+    href="https://www.lovart.ai/"
+    icon="https://www.faviconextractor.com/favicon/www.lovart.ai?larger=true" >
+      世界上第一个设计代理商 --- Lovart
+  </LinkCard>
+  <LinkCard
+    title="Flowith"
+    href="https://flowith.cc/"
+    icon="https://www.faviconextractor.com/favicon/flowith.cc?larger=true" >
+      您的AI创建工作区，具有知识
+  </LinkCard>
 </CardGrid>
 
 ## AI Coder

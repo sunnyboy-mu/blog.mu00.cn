@@ -8,6 +8,9 @@ permalink: /sites-nav/web-sites/
 
 > 人生如棋，落子无悔；处世之道，贵在从容
 
+- [VoidZero](https://voidzero.dev/) - 下一代 Web 工具链
+- [Node.js](https://nodejs.org/zh-cn) - 一个免费、开源、跨平台的 JavaScript 运行时环境, 它让开发人员能够创建服务器 Web 应用、命令行工具和脚本。
+
 ## ✨ 框架
 
 - [Vue.js](https://cn.vuejs.org/) - 渐进式 JavaScript 框架，易学易用，性能出色
@@ -20,6 +23,7 @@ permalink: /sites-nav/web-sites/
 - [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - 一个简单、高效的应用开发框架和丰富的组件及 API，帮助开发者在微信中开发具有原生 APP 体验的服务
 - [Next.js](https://nextjs.org/) - 一个轻量级的 React 服务端渲染应用框架
 - [Nuxt](https://nuxt.com/) - 直观地使用 Vue.js 进行全栈开发
+- [Hono](https://hono.nodejs.cn/) - 快速、轻量、基于 Web 标准构建。支持任何 JavaScript 运行时。
 
 ### 微前端
 

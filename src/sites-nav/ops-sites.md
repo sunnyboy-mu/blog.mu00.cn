@@ -35,5 +35,11 @@ permalink: /sites-nav/ops-sites/
     icon="https://www.faviconextractor.com/favicon/run.claw.cloud?larger=true" >
       快速部署多种 Docker 容器应用和开源程序，无需复杂的配置
   </LinkCard>
+  <LinkCard
+    title="Deno Deploy"
+    href="https://dash.deno.com/"
+    icon="https://www.faviconextractor.com/favicon/dash.deno.com?larger=true" >
+      我们让无服务器变得毫不费力。连接现有项目或试用我们的游戏场，立即开始。
+  </LinkCard>
 </CardGrid>
 
